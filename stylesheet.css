@@ -1,0 +1,183 @@
+
+.list,li, a
+{
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+.mainimg
+{
+    /*background-image: url("images/img1.jpg");
+    background-size: cover;*/
+    position: relative;
+    top:0;
+    text-align: center;
+    border-top: 0px;
+    margin-top: 0px;
+    color: whitesmoke;
+}
+ .im
+{
+    position: relative;
+    top: 15em;
+    border:2em solid white;
+    z-index: 10px;;
+    box-shadow:0.2em 0.3em 0.5em 0.3em;
+}
+.cap1
+{
+    top:2.3in;
+    left:0.1in;
+    font-family:  Arial, sans-serif;
+    color:grey;
+    font-size:26px;
+    text-decoration: underline; 
+    text-decoration-color: orangered;
+    text-decoration-style: dashed;
+    position: relative;
+}
+.desc1
+{
+    top:2.5in;
+    position: relative;
+}
+
+.abt2
+{
+    position: relative;
+    top:400px;
+    margin-bottom: 100px;  
+}
+.cap2
+{
+    text-decoration: underline;
+    text-decoration-color: orangered;
+    text-decoration-style: dashed;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+}
+.desc2
+{
+    position: relative;
+    font-size: 20px;
+}
+body
+{
+    width:fit-content;
+}
+.hotelimg
+{
+    top: 200px;
+    position: relative;
+}
+.about1
+{
+    background-size: cover;
+    background-color: orange;
+    
+}
+.serve
+{
+    
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 500px;
+
+}
+.serve
+{
+    background-color: darkslategrey;
+    padding-top: 50px;
+    margin-top: 50px;
+    border-top: 100px;
+    color: white;
+}
+.serve{
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-style: dotted;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom:60px;
+    
+}
+h3
+{
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.detailsservice
+{
+    font-size: 19px;
+    color: grey;
+}
+.ser
+{
+    padding-bottom:15px;
+}
+
+.chef
+{
+    position: relative;
+    top: 500px;
+    padding:50px;
+    background-image: url("background.png");
+}
+.cf
+{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-style: dashed;
+ }
+ .menu
+ {
+     
+     position: relative;
+     top: 505px;
+     
+     background-image: url("img15.jpeg");
+     padding: 50px;
+ }
+ #Menu
+ {
+     
+    background-image: url("img15.jpeg");
+ }
+ .men
+ {
+    text-align: center;
+     text-decoration: underline;
+     text-decoration-style: dashed;
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration-color: orange;
+     font-size: 30px;
+     font-weight: bold;
+     color: whitesmoke;
+ }
+ .contactus
+ {
+     position: relative;
+     top:505px;
+     background-image: url("background.png");
+     background-color:rgb(61, 13, 13);
+   background-blend-mode: soft-light;
+    color: black;
+ }
+ .con
+ {
+     padding: 100px;
+     font-size:20px;
+     font-weight:bold;
+ }
+table tbody td {
+    padding: 10px;
+}
